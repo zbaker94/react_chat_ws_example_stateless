@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by following the tutorial at https://codetree.dev/react-websocket-chat-application/
+
+In an attempt to replicate it using hooks and stateless components. It is offered as-is until I get around to writing a supplement to that tutorial.
+
+The css is just a placeholder for now.
 
 ## Available Scripts
 

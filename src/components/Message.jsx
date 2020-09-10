@@ -1,7 +1,7 @@
 import React from 'react'
 
 let Message = ({text, username, isSelf, msgKey}) => {
-    return <div style={{textAlign: isSelf ? "left" : "right", backgroundColor: "blue", padding: "5px", margin: "5px"}} key={msgKey}> 
+    return <div style={{textAlign: isSelf ? "left" : "right", backgroundColor: "blue", padding: "5px", margin: "5px", color: "white"}} key={msgKey}> 
         {username}
         <br/>
         {text}
