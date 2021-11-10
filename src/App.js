@@ -56,6 +56,7 @@ function App() {
       <div className='container'>
         <div className='container-title'>Enter username</div>
         <TextBar onSend={setUsername} />
+        {"Hey Roddy"}
       </div>
     ) : 
     <div className='container'>
